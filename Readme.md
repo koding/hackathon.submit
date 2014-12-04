@@ -1,6 +1,6 @@
 # Koding Global Virtual Hackathon's Submission Example
 
-![Badge]("images/badge.png" "Badge")
+![Badge]("https://raw.githubusercontent.com/koding/hackathon.submit/master/images/badge.png" "Badge")
 
 This is a sample submission repository for the hackathon. If you don't know what that is, please [go here](https://koding.com/Hackathon). You can fork this repo and use this as a starting point.
 
