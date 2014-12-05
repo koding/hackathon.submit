@@ -4,7 +4,7 @@ This is a sample submission repository for the hackathon. If you don't know what
 
 ## Description
 
-![https://koding.com/Hackathon](/images/badge.png?raw=true)
+[![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
 A brief introduction to your project. It should include the motivation behind the project and also how it addresses the hackthon theme you've selected.
 
